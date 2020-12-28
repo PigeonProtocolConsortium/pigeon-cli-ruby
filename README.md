@@ -2,7 +2,7 @@
 
 # Pigeon Ruby
 
-A [Pigeon Protocol](https://tildegit.org/PigeonProtocolConsortium/protocol_spec) client written in Ruby.
+A [Pigeon Protocol](https://github.com/PigeonProtocolConsortium/pigeon-spec) client written in Ruby.
 
 Email `contact` at `vaporsoft.xyz` to ask questions or get involved. Your feedback is solicited and appreciated. Seriously, send us an email! We look forward to hearing from you.
 
@@ -31,7 +31,7 @@ Add this to you Gemfile:
 
 ```
 gem "pigeon",
-  git: "https://tildegit.org/PigeonProtocolConsortium/pigeon_ruby",
+  git: "https://github.com/PigeonProtocolConsortium/pigeon-cli-ruby/",
   tag: "v0.2.0"
 ```
 

@@ -15,7 +15,7 @@ This document will teach you how to:
  * Attach binary files to messages.
  * Communicate with remote databases using "bundles".
 
-This guide assumes you are familiar with Ruby and the Pigeon Protocol. For an introduction to the protocol, see our protocol specification [here](https://tildegit.org/PigeonProtocolConsortium/protocol_spec).
+This guide assumes you are familiar with Ruby and the Pigeon Protocol. For an introduction to the protocol, see our protocol specification [here](https://github.com/PigeonProtocolConsortium/pigeon-spec).
 
 Below is a list of all methods needed to run a Pigeon node. Pigeon strives to have a _natural_ API rather than a simple one, which means you may not need to know every single method to operate a node successfully.
 
@@ -62,7 +62,7 @@ One note about the `pigeon.db` file before moving to the next section: Do not sh
 
 ## Working with Drafts
 
-A `message` is the basic building block of a Pigeon database. As mentioned in the [protocol spec](https://tildegit.org/PigeonProtocolConsortium/protocol_spec), there are three parts to a message:
+A `message` is the basic building block of a Pigeon database. As mentioned in the [protocol spec](https://github.com/PigeonProtocolConsortium/pigeon-spec), there are three parts to a message:
 
  * A header containing a `kind` field (similar to an email subject line) plus some additional meta data used by protocol clients.
  * A body containing user definable key / value pairs.
