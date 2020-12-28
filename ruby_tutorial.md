@@ -31,7 +31,7 @@ Below is a list of all methods needed to run a Pigeon node. Pigeon strives to ha
 
 **PEER METHODS:** `#all_peers`, `#add_peer`, `#remove_peer`, `#all_blocks`, `#block_peer`, `#peer_blocked`
 
-**Note to application developers:** Please let us know what you build! Send an email to `contact` at `vaporsoft.xyz` with your progress.
+**Note to application developers:** Please let us know what you build! Raise an issue with your project so we can add it to the README.
 
 ## Installation
 
@@ -317,7 +317,7 @@ db.peer_blocked?("USER.753FT97S1FD3SRYPTVPQQ64F7HCEAZMWVBKG0C2MYMS5MJ3SBT6G")
 
 ## Querying the Database
 
-The client offers minimal query capabilities and indexes. More will be added at a later date. Please email `contact` at `vaporsoft.xyz` if you are interested in helping. Feature requests are welcome.
+The client offers minimal query capabilities and indexes. More will be added at a later date. Please raise an issue if you are interested in helping. Feature requests are welcome.
 
 ### Fetch a Message by Feed Identity + Message Depth
 

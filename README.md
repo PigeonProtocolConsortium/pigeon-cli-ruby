@@ -4,7 +4,7 @@
 
 A [Pigeon Protocol](https://github.com/PigeonProtocolConsortium/pigeon-spec) client written in Ruby.
 
-Email `contact` at `vaporsoft.xyz` to ask questions or get involved. Your feedback is solicited and appreciated. Seriously, send us an email! We look forward to hearing from you.
+Raise an issue to ask questions or get involved. Your feedback is solicited and appreciated. Seriously! We look forward to hearing from you.
 
 # Features
 
